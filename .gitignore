@@ -11,3 +11,8 @@ __pycache__/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Large data files not tracked in git
+data/annotation/
+data/processed/Training_Dataset_Preprocessed.csv
+data/processed/Test_Dataset_Preprocessed.csv
