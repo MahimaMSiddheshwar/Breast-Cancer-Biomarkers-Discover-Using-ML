@@ -1,0 +1,329 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2023	Regulation Of Macrophage Differentiation (GO:0045649)	2/14	1.141531e-04	2.158619e-02	0	0	1.584524e+02	1.438426e+03	LIF;INHBA
+GO_Biological_Process_2023	Protein Localization To Cell-Cell Junction (GO:0150105)	2/15	1.316231e-04	2.158619e-02	0	0	1.462564e+02	1.306884e+03	DSP;LSR
+GO_Biological_Process_2023	Peptide Cross-Linking (GO:0018149)	2/27	4.363227e-04	4.770461e-02	0	0	7.600762e+01	5.880807e+02	DSP;CSTA
+GO_Biological_Process_2023	Skeletal System Development (GO:0001501)	3/149	6.432862e-04	5.274947e-02	0	0	2.037432e+01	1.497292e+02	COMP;MYOC;OGN
+GO_Biological_Process_2023	Keratinocyte Differentiation (GO:0030216)	2/42	1.059136e-03	6.352657e-02	0	0	4.746905e+01	3.251773e+02	DSP;CSTA
+GO_Biological_Process_2023	Bone Development (GO:0060348)	2/44	1.162071e-03	6.352657e-02	0	0	4.520408e+01	3.054689e+02	MYOC;OGN
+GO_Biological_Process_2023	Heterophilic Cell-Cell Adhesion Via Plasma Membrane Cell Adhesion Molecules (GO:0007157)	2/49	1.439568e-03	6.745406e-02	0	0	4.038501e+01	2.642557e+02	CRTAM;SELE
+GO_Biological_Process_2023	Epidermal Cell Differentiation (GO:0009913)	2/54	1.745614e-03	7.157016e-02	0	0	3.649267e+01	2.317522e+02	DSP;CSTA
+GO_Biological_Process_2023	Skin Development (GO:0043588)	2/68	2.751807e-03	8.421248e-02	0	0	2.873160e+01	1.693871e+02	DSP;CSTA
+GO_Biological_Process_2023	Regulation Of Type II Interferon Production (GO:0032649)	2/87	4.459606e-03	8.421248e-02	0	0	2.228796e+01	1.206379e+02	CRTAM;INHBA
+GO_Biological_Process_2023	Establishment Of Lymphocyte Polarity (GO:0001767)	1/5	5.737289e-03	8.421248e-02	0	0	2.269659e+02	1.171319e+03	CRTAM
+GO_Biological_Process_2023	Striated Muscle Hypertrophy (GO:0014897)	1/5	5.737289e-03	8.421248e-02	0	0	2.269659e+02	1.171319e+03	MYOC
+GO_Biological_Process_2023	Positive Regulation Of Natural Killer Cell Mediated Cytotoxicity Directed Against Tumor Cell Target (GO:0002860)	1/5	5.737289e-03	8.421248e-02	0	0	2.269659e+02	1.171319e+03	CRTAM
+GO_Biological_Process_2023	Positive Regulation Of Natural Killer Cell Mediated Immune Response To Tumor Cell (GO:0002857)	1/5	5.737289e-03	8.421248e-02	0	0	2.269659e+02	1.171319e+03	CRTAM
+GO_Biological_Process_2023	Ventricular Compact Myocardium Morphogenesis (GO:0003223)	1/5	5.737289e-03	8.421248e-02	0	0	2.269659e+02	1.171319e+03	DSP
+GO_Biological_Process_2023	Regulation Of Apoptotic DNA Fragmentation (GO:1902510)	1/5	5.737289e-03	8.421248e-02	0	0	2.269659e+02	1.171319e+03	CIDEA
+GO_Biological_Process_2023	Positive Regulation Of Epithelial Cell Differentiation Involved In Kidney Development (GO:2000698)	1/5	5.737289e-03	8.421248e-02	0	0	2.269659e+02	1.171319e+03	LIF
+GO_Biological_Process_2023	Bundle Of His cell-Purkinje Myocyte Adhesion Involved In Cell Communication (GO:0086073)	1/5	5.737289e-03	8.421248e-02	0	0	2.269659e+02	1.171319e+03	DSP
+GO_Biological_Process_2023	Lymphocyte Migration Into Lymphoid Organs (GO:0097021)	1/6	6.880968e-03	8.421248e-02	0	0	1.815636e+02	9.040046e+02	CRTAM
+GO_Biological_Process_2023	Cardiac Muscle Cell-Cardiac Muscle Cell Adhesion (GO:0086042)	1/6	6.880968e-03	8.421248e-02	0	0	1.815636e+02	9.040046e+02	DSP
+GO_Biological_Process_2023	Positive Regulation Of Leukocyte Tethering Or Rolling (GO:1903238)	1/6	6.880968e-03	8.421248e-02	0	0	1.815636e+02	9.040046e+02	SELE
+GO_Biological_Process_2023	Negative Regulation Of Lymphocyte Differentiation (GO:0045620)	1/6	6.880968e-03	8.421248e-02	0	0	1.815636e+02	9.040046e+02	INHBA
+GO_Biological_Process_2023	Positive Regulation Of Membrane Depolarization (GO:1904181)	1/6	6.880968e-03	8.421248e-02	0	0	1.815636e+02	9.040046e+02	MYOC
+GO_Biological_Process_2023	Desmosome Organization (GO:0002934)	1/6	6.880968e-03	8.421248e-02	0	0	1.815636e+02	9.040046e+02	DSP
+GO_Biological_Process_2023	Regulation Of Natural Killer Cell Mediated Cytotoxicity Directed Against Tumor Cell Target (GO:0002858)	1/7	8.023390e-03	8.421248e-02	0	0	1.512955e+02	7.300602e+02	CRTAM
+GO_Biological_Process_2023	Peripheral Nervous System Axon Ensheathment (GO:0032292)	1/8	9.164555e-03	8.421248e-02	0	0	1.296753e+02	6.084900e+02	MYOC
+GO_Biological_Process_2023	Schwann Cell Development (GO:0014044)	1/8	9.164555e-03	8.421248e-02	0	0	1.296753e+02	6.084900e+02	MYOC
+GO_Biological_Process_2023	T Cell Mediated Cytotoxicity (GO:0001913)	1/8	9.164555e-03	8.421248e-02	0	0	1.296753e+02	6.084900e+02	CRTAM
+GO_Biological_Process_2023	Positive Regulation Of Sequestering Of Triglyceride (GO:0010890)	1/8	9.164555e-03	8.421248e-02	0	0	1.296753e+02	6.084900e+02	CIDEA
+GO_Biological_Process_2023	Regulation Of Nephron Tubule Epithelial Cell Differentiation (GO:0072182)	1/8	9.164555e-03	8.421248e-02	0	0	1.296753e+02	6.084900e+02	LIF
+GO_Biological_Process_2023	Neuronal Ion Channel Clustering (GO:0045161)	1/8	9.164555e-03	8.421248e-02	0	0	1.296753e+02	6.084900e+02	MYOC
+GO_Biological_Process_2023	Lactation (GO:0007595)	1/8	9.164555e-03	8.421248e-02	0	0	1.296753e+02	6.084900e+02	OXTR
+GO_Biological_Process_2023	Bundle Of His Cell To Purkinje Myocyte Communication (GO:0086069)	1/8	9.164555e-03	8.421248e-02	0	0	1.296753e+02	6.084900e+02	DSP
+GO_Biological_Process_2023	Positive Regulation Of Multicellular Organismal Process (GO:0051240)	3/387	9.551970e-03	8.421248e-02	0	0	7.653516e+00	3.559656e+01	OXTR;CRTAM;INHBA
+GO_Biological_Process_2023	Negative Regulation Of Hormone Secretion (GO:0046888)	1/9	1.030446e-02	8.421248e-02	0	0	1.134602e+02	5.191007e+02	LIF
+GO_Biological_Process_2023	Regulation Of Store-Operated Calcium Entry (GO:2001256)	1/9	1.030446e-02	8.421248e-02	0	0	1.134602e+02	5.191007e+02	EFHB
+GO_Biological_Process_2023	Regulation Of CD8-positive, Alpha-Beta T Cell Activation (GO:2001185)	1/9	1.030446e-02	8.421248e-02	0	0	1.134602e+02	5.191007e+02	CRTAM
+GO_Biological_Process_2023	Oxygen Transport (GO:0015671)	1/10	1.144312e-02	8.421248e-02	0	0	1.008485e+02	4.508297e+02	HBB
+GO_Biological_Process_2023	Positive Regulation Of Macrophage Differentiation (GO:0045651)	1/10	1.144312e-02	8.421248e-02	0	0	1.008485e+02	4.508297e+02	LIF
+GO_Biological_Process_2023	Positive Regulation Of Mitochondrial Outer Membrane Permeabilization Involved In Apoptotic Signaling Pathway (GO:1901030)	1/10	1.144312e-02	8.421248e-02	0	0	1.008485e+02	4.508297e+02	GZMB
+GO_Biological_Process_2023	Regulation Of Mitochondrial Depolarization (GO:0051900)	1/10	1.144312e-02	8.421248e-02	0	0	1.008485e+02	4.508297e+02	MYOC
+GO_Biological_Process_2023	Negative Regulation Of Activated T Cell Proliferation (GO:0046007)	1/10	1.144312e-02	8.421248e-02	0	0	1.008485e+02	4.508297e+02	CRTAM
+GO_Biological_Process_2023	Regulation Of Cold-Induced Thermogenesis (GO:0120161)	2/146	1.211051e-02	8.421248e-02	0	0	1.311706e+01	5.789454e+01	OXTR;CIDEA
+GO_Biological_Process_2023	Negative Regulation Of Protein Metabolic Process (GO:0051248)	2/147	1.226903e-02	8.421248e-02	0	0	1.302594e+01	5.732298e+01	CSTA;GZMB
+GO_Biological_Process_2023	Epithelial Cell-Cell Adhesion (GO:0090136)	1/11	1.258052e-02	8.421248e-02	0	0	9.075909e+01	3.971260e+02	DSP
+GO_Biological_Process_2023	Carbon Dioxide Transport (GO:0015670)	1/11	1.258052e-02	8.421248e-02	0	0	9.075909e+01	3.971260e+02	HBB
+GO_Biological_Process_2023	Regulation Of Ventricular Cardiac Muscle Cell Action Potential (GO:0098911)	1/11	1.258052e-02	8.421248e-02	0	0	9.075909e+01	3.971260e+02	DSP
+GO_Biological_Process_2023	Regulation Of Leukocyte Tethering Or Rolling (GO:1903236)	1/11	1.258052e-02	8.421248e-02	0	0	9.075909e+01	3.971260e+02	SELE
+GO_Biological_Process_2023	Aspartate Family Amino Acid Catabolic Process (GO:0009068)	1/11	1.258052e-02	8.421248e-02	0	0	9.075909e+01	3.971260e+02	ASPA
+GO_Biological_Process_2023	Myelination In Peripheral Nervous System (GO:0022011)	1/12	1.371667e-02	8.483639e-02	0	0	8.250413e+01	3.538720e+02	MYOC
+GO_Biological_Process_2023	Positive Regulation Of Vasoconstriction (GO:0045907)	1/12	1.371667e-02	8.483639e-02	0	0	8.250413e+01	3.538720e+02	OXTR
+GO_Biological_Process_2023	ERBB2 Signaling Pathway (GO:0038128)	1/13	1.485157e-02	8.483639e-02	0	0	7.562500e+01	3.183547e+02	MYOC
+GO_Biological_Process_2023	Cytoplasmic Sequestering Of Protein (GO:0051220)	1/13	1.485157e-02	8.483639e-02	0	0	7.562500e+01	3.183547e+02	NFKBIE
+GO_Biological_Process_2023	Cytoplasmic Sequestering Of Transcription Factor (GO:0042994)	1/13	1.485157e-02	8.483639e-02	0	0	7.562500e+01	3.183547e+02	NFKBIE
+GO_Biological_Process_2023	Body Fluid Secretion (GO:0007589)	1/13	1.485157e-02	8.483639e-02	0	0	7.562500e+01	3.183547e+02	OXTR
+GO_Biological_Process_2023	Regulation Of Cytokine Production (GO:0001817)	2/167	1.562899e-02	8.483639e-02	0	0	1.143550e+01	4.755598e+01	CRTAM;CIDEA
+GO_Biological_Process_2023	Regulation Of Sequestering Of Triglyceride (GO:0010889)	1/14	1.598523e-02	8.483639e-02	0	0	6.980420e+01	2.887165e+02	CIDEA
+GO_Biological_Process_2023	T Cell Proliferation (GO:0042098)	1/14	1.598523e-02	8.483639e-02	0	0	6.980420e+01	2.887165e+02	CRTAM
+GO_Biological_Process_2023	Cell-Cell Adhesion Via Plasma-Membrane Adhesion Molecules (GO:0098742)	2/172	1.652432e-02	8.483639e-02	0	0	1.109636e+01	4.552750e+01	CRTAM;SELE
+GO_Biological_Process_2023	Gas Transport (GO:0015669)	1/15	1.711763e-02	8.483639e-02	0	0	6.481494e+01	2.636442e+02	HBB
+GO_Biological_Process_2023	Regulation Of Systemic Arterial Blood Pressure By Hormone (GO:0001990)	1/15	1.711763e-02	8.483639e-02	0	0	6.481494e+01	2.636442e+02	OXTR
+GO_Biological_Process_2023	Regulation Of Hormone Secretion (GO:0046883)	1/15	1.711763e-02	8.483639e-02	0	0	6.481494e+01	2.636442e+02	LIF
+GO_Biological_Process_2023	Negative Regulation Of Cytokine Production (GO:0001818)	2/178	1.762722e-02	8.483639e-02	0	0	1.071483e+01	4.326980e+01	CIDEA;INHBA
+GO_Biological_Process_2023	Activin Receptor Signaling Pathway (GO:0032924)	1/16	1.824879e-02	8.483639e-02	0	0	6.049091e+01	2.421848e+02	INHBA
+GO_Biological_Process_2023	Dicarboxylic Acid Catabolic Process (GO:0043649)	1/16	1.824879e-02	8.483639e-02	0	0	6.049091e+01	2.421848e+02	ASPA
+GO_Biological_Process_2023	Positive Regulation Of Leukocyte Adhesion To Vascular Endothelial Cell (GO:1904996)	1/17	1.937870e-02	8.483639e-02	0	0	5.670739e+01	2.236302e+02	SELE
+GO_Biological_Process_2023	Positive Regulation Of Peptidyl-Serine Phosphorylation Of STAT Protein (GO:0033141)	1/17	1.937870e-02	8.483639e-02	0	0	5.670739e+01	2.236302e+02	LIF
+GO_Biological_Process_2023	Negative Regulation Of Rho Protein Signal Transduction (GO:0035024)	1/17	1.937870e-02	8.483639e-02	0	0	5.670739e+01	2.236302e+02	MYOC
+GO_Biological_Process_2023	Positive Regulation Of Cell Adhesion Mediated By Integrin (GO:0033630)	1/17	1.937870e-02	8.483639e-02	0	0	5.670739e+01	2.236302e+02	LIF
+GO_Biological_Process_2023	Leukocyte Tethering Or Rolling (GO:0050901)	1/17	1.937870e-02	8.483639e-02	0	0	5.670739e+01	2.236302e+02	SELE
+GO_Biological_Process_2023	3'-UTR-mediated mRNA Stabilization (GO:0070935)	1/18	2.050737e-02	8.483639e-02	0	0	5.336898e+01	2.074437e+02	BOLL
+GO_Biological_Process_2023	Negative Regulation Of Lipid Catabolic Process (GO:0050995)	1/18	2.050737e-02	8.483639e-02	0	0	5.336898e+01	2.074437e+02	CIDEA
+GO_Biological_Process_2023	Renal Absorption (GO:0070293)	1/18	2.050737e-02	8.483639e-02	0	0	5.336898e+01	2.074437e+02	HBB
+GO_Biological_Process_2023	Regulation Of Lymphocyte Activation (GO:0051249)	1/18	2.050737e-02	8.483639e-02	0	0	5.336898e+01	2.074437e+02	CRTAM
+GO_Biological_Process_2023	Regulation Of Peptidyl-Serine Phosphorylation Of STAT Protein (GO:0033139)	1/18	2.050737e-02	8.483639e-02	0	0	5.336898e+01	2.074437e+02	LIF
+GO_Biological_Process_2023	Positive Regulation Of Focal Adhesion Assembly (GO:0051894)	1/18	2.050737e-02	8.483639e-02	0	0	5.336898e+01	2.074437e+02	MYOC
+GO_Biological_Process_2023	Epithelial Structure Maintenance (GO:0010669)	1/19	2.163480e-02	8.483639e-02	0	0	5.040152e+01	1.932118e+02	LSR
+GO_Biological_Process_2023	Negative Regulation Of Execution Phase Of Apoptosis (GO:1900118)	1/19	2.163480e-02	8.483639e-02	0	0	5.040152e+01	1.932118e+02	CIDEA
+GO_Biological_Process_2023	Establishment Of Skin Barrier (GO:0061436)	1/19	2.163480e-02	8.483639e-02	0	0	5.040152e+01	1.932118e+02	LSR
+GO_Biological_Process_2023	Regulation Of B Cell Differentiation (GO:0045577)	1/19	2.163480e-02	8.483639e-02	0	0	5.040152e+01	1.932118e+02	INHBA
+GO_Biological_Process_2023	Regulation Of Lymphocyte Differentiation (GO:0045619)	1/19	2.163480e-02	8.483639e-02	0	0	5.040152e+01	1.932118e+02	CRTAM
+GO_Biological_Process_2023	Leukocyte Adhesion To Vascular Endothelial Cell (GO:0061756)	1/19	2.163480e-02	8.483639e-02	0	0	5.040152e+01	1.932118e+02	SELE
+GO_Biological_Process_2023	Regulation Of MAPK Cascade (GO:0043408)	2/204	2.275557e-02	8.483639e-02	0	0	9.323432e+00	3.527004e+01	MYOC;LIF
+GO_Biological_Process_2023	Positive Regulation Of Lipid Storage (GO:0010884)	1/20	2.276098e-02	8.483639e-02	0	0	4.774641e+01	1.806107e+02	CIDEA
+GO_Biological_Process_2023	Negative Regulation Of Phosphate Metabolic Process (GO:0045936)	1/20	2.276098e-02	8.483639e-02	0	0	4.774641e+01	1.806107e+02	INHBA
+GO_Biological_Process_2023	T Cell Mediated Immunity (GO:0002456)	1/20	2.276098e-02	8.483639e-02	0	0	4.774641e+01	1.806107e+02	CRTAM
+GO_Biological_Process_2023	Hydrogen Peroxide Catabolic Process (GO:0042744)	1/20	2.276098e-02	8.483639e-02	0	0	4.774641e+01	1.806107e+02	HBB
+GO_Biological_Process_2023	Negative Regulation Of B Cell Activation (GO:0050869)	1/20	2.276098e-02	8.483639e-02	0	0	4.774641e+01	1.806107e+02	INHBA
+GO_Biological_Process_2023	Macrophage Differentiation (GO:0030225)	1/21	2.388593e-02	8.571331e-02	0	0	4.535682e+01	1.693835e+02	LIF
+GO_Biological_Process_2023	Positive Regulation Of Natural Killer Cell Mediated Cytotoxicity (GO:0045954)	1/21	2.388593e-02	8.571331e-02	0	0	4.535682e+01	1.693835e+02	CRTAM
+GO_Biological_Process_2023	Skin Epidermis Development (GO:0098773)	1/21	2.388593e-02	8.571331e-02	0	0	4.535682e+01	1.693835e+02	LSR
+GO_Biological_Process_2023	Mammary Gland Development (GO:0030879)	1/22	2.500964e-02	8.571331e-02	0	0	4.319481e+01	1.593238e+02	OXTR
+GO_Biological_Process_2023	Natural Killer Cell Mediated Immunity (GO:0002228)	1/22	2.500964e-02	8.571331e-02	0	0	4.319481e+01	1.593238e+02	GZMB
+GO_Biological_Process_2023	Positive Regulation Of Receptor Internalization (GO:0002092)	1/22	2.500964e-02	8.571331e-02	0	0	4.319481e+01	1.593238e+02	SELE
+GO_Biological_Process_2023	Negative Regulation Of Cell Communication (GO:0010648)	1/22	2.500964e-02	8.571331e-02	0	0	4.319481e+01	1.593238e+02	LIF
+GO_Biological_Process_2023	Protein Localization To Cell Junction (GO:1902414)	1/23	2.613211e-02	8.571331e-02	0	0	4.122934e+01	1.502641e+02	DSP
+GO_Biological_Process_2023	Positive Regulation Of Morphogenesis Of An Epithelium (GO:1905332)	1/23	2.613211e-02	8.571331e-02	0	0	4.122934e+01	1.502641e+02	LIF
+GO_Biological_Process_2023	Hepaticobiliary System Development (GO:0061008)	1/23	2.613211e-02	8.571331e-02	0	0	4.122934e+01	1.502641e+02	LSR
+GO_Biological_Process_2023	Regulation Of Lipid Catabolic Process (GO:0050994)	1/23	2.613211e-02	8.571331e-02	0	0	4.122934e+01	1.502641e+02	CIDEA
+GO_Biological_Process_2023	Positive Regulation Of Cell-Substrate Junction Organization (GO:0150117)	1/23	2.613211e-02	8.571331e-02	0	0	4.122934e+01	1.502641e+02	MYOC
+GO_Biological_Process_2023	Regulation Of Execution Phase Of Apoptosis (GO:1900117)	1/24	2.725334e-02	8.600089e-02	0	0	3.943478e+01	1.420669e+02	CIDEA
+GO_Biological_Process_2023	Positive Regulation Of Natural Killer Cell Mediated Immunity (GO:0002717)	1/24	2.725334e-02	8.600089e-02	0	0	3.943478e+01	1.420669e+02	CRTAM
+GO_Biological_Process_2023	Natural Killer Cell Mediated Cytotoxicity (GO:0042267)	1/24	2.725334e-02	8.600089e-02	0	0	3.943478e+01	1.420669e+02	GZMB
+GO_Biological_Process_2023	Negative Regulation Of Stress Fiber Assembly (GO:0051497)	1/25	2.837334e-02	8.600089e-02	0	0	3.778977e+01	1.346187e+02	MYOC
+GO_Biological_Process_2023	Organelle Fusion (GO:0048284)	1/26	2.949210e-02	8.600089e-02	0	0	3.627636e+01	1.278246e+02	CIDEA
+GO_Biological_Process_2023	Negative Regulation Of Lipid Metabolic Process (GO:0045833)	1/26	2.949210e-02	8.600089e-02	0	0	3.627636e+01	1.278246e+02	CIDEA
+GO_Biological_Process_2023	Regulation Of Vasoconstriction (GO:0019229)	1/26	2.949210e-02	8.600089e-02	0	0	3.627636e+01	1.278246e+02	OXTR
+GO_Biological_Process_2023	Regulation Of Cardiac Muscle Cell Contraction (GO:0086004)	1/26	2.949210e-02	8.600089e-02	0	0	3.627636e+01	1.278246e+02	DSP
+GO_Biological_Process_2023	Positive Regulation Of Erythrocyte Differentiation (GO:0045648)	1/26	2.949210e-02	8.600089e-02	0	0	3.627636e+01	1.278246e+02	INHBA
+GO_Biological_Process_2023	Regulation Of Extrinsic Apoptotic Signaling Pathway In Absence Of Ligand (GO:2001239)	1/27	3.060964e-02	8.600089e-02	0	0	3.487937e+01	1.216048e+02	INHBA
+GO_Biological_Process_2023	Positive Regulation Of Nitric Oxide Biosynthetic Process (GO:0045429)	1/27	3.060964e-02	8.600089e-02	0	0	3.487937e+01	1.216048e+02	HBB
+GO_Biological_Process_2023	Activation Of Phospholipase C Activity (GO:0007202)	1/27	3.060964e-02	8.600089e-02	0	0	3.487937e+01	1.216048e+02	SELE
+GO_Biological_Process_2023	Regulation Of Peptidase Activity (GO:0052547)	1/27	3.060964e-02	8.600089e-02	0	0	3.487937e+01	1.216048e+02	CSTA
+GO_Biological_Process_2023	Pyroptosis (GO:0070269)	1/28	3.172594e-02	8.600089e-02	0	0	3.358586e+01	1.158921e+02	GZMB
+GO_Biological_Process_2023	Positive Regulation Of Nitric Oxide Metabolic Process (GO:1904407)	1/28	3.172594e-02	8.600089e-02	0	0	3.358586e+01	1.158921e+02	HBB
+GO_Biological_Process_2023	Hematopoietic Progenitor Cell Differentiation (GO:0002244)	1/28	3.172594e-02	8.600089e-02	0	0	3.358586e+01	1.158921e+02	INHBA
+GO_Biological_Process_2023	Negative Regulation Of Signaling (GO:0023057)	1/28	3.172594e-02	8.600089e-02	0	0	3.358586e+01	1.158921e+02	LIF
+GO_Biological_Process_2023	Negative Regulation Of Type II Interferon Production (GO:0032689)	1/28	3.172594e-02	8.600089e-02	0	0	3.358586e+01	1.158921e+02	INHBA
+GO_Biological_Process_2023	Negative Regulation Of Actin Filament Bundle Assembly (GO:0032232)	1/28	3.172594e-02	8.600089e-02	0	0	3.358586e+01	1.158921e+02	MYOC
+GO_Biological_Process_2023	Regulation Of Cardiac Muscle Cell Action Potential (GO:0098901)	1/28	3.172594e-02	8.600089e-02	0	0	3.358586e+01	1.158921e+02	DSP
+GO_Biological_Process_2023	Limb Development (GO:0060173)	1/28	3.172594e-02	8.600089e-02	0	0	3.358586e+01	1.158921e+02	COMP
+GO_Biological_Process_2023	Maintenance Of Blood-Brain Barrier (GO:0035633)	1/29	3.284101e-02	8.686977e-02	0	0	3.238474e+01	1.106288e+02	LSR
+GO_Biological_Process_2023	Heterotypic Cell-Cell Adhesion (GO:0034113)	1/29	3.284101e-02	8.686977e-02	0	0	3.238474e+01	1.106288e+02	DSP
+GO_Biological_Process_2023	Lipid Droplet Organization (GO:0034389)	1/29	3.284101e-02	8.686977e-02	0	0	3.238474e+01	1.106288e+02	CIDEA
+GO_Biological_Process_2023	Negative Regulation Of Myeloid Leukocyte Differentiation (GO:0002762)	1/30	3.395486e-02	8.880535e-02	0	0	3.126646e+01	1.057658e+02	INHBA
+GO_Biological_Process_2023	Leukocyte Cell-Cell Adhesion (GO:0007159)	1/31	3.506747e-02	8.880535e-02	0	0	3.022273e+01	1.012607e+02	SELE
+GO_Biological_Process_2023	Negative Regulation Of Cell-Matrix Adhesion (GO:0001953)	1/31	3.506747e-02	8.880535e-02	0	0	3.022273e+01	1.012607e+02	MYOC
+GO_Biological_Process_2023	Endodermal Cell Differentiation (GO:0035987)	1/31	3.506747e-02	8.880535e-02	0	0	3.022273e+01	1.012607e+02	INHBA
+GO_Biological_Process_2023	Positive Regulation Of Extrinsic Apoptotic Signaling Pathway (GO:2001238)	1/31	3.506747e-02	8.880535e-02	0	0	3.022273e+01	1.012607e+02	INHBA
+GO_Biological_Process_2023	Negative Regulation Of G1/S Transition Of Mitotic Cell Cycle (GO:2000134)	1/32	3.617887e-02	8.880535e-02	0	0	2.924633e+01	9.707678e+01	INHBA
+GO_Biological_Process_2023	Regulation Of Natural Killer Cell Mediated Cytotoxicity (GO:0042269)	1/32	3.617887e-02	8.880535e-02	0	0	2.924633e+01	9.707678e+01	CRTAM
+GO_Biological_Process_2023	Positive Regulation Of Nitrogen Compound Metabolic Process (GO:0051173)	1/33	3.728903e-02	8.880535e-02	0	0	2.833097e+01	9.318213e+01	INHBA
+GO_Biological_Process_2023	Ventricular Cardiac Muscle Tissue Morphogenesis (GO:0055010)	1/33	3.728903e-02	8.880535e-02	0	0	2.833097e+01	9.318213e+01	DSP
+GO_Biological_Process_2023	Positive Regulation Of Reproductive Process (GO:2000243)	1/33	3.728903e-02	8.880535e-02	0	0	2.833097e+01	9.318213e+01	INHBA
+GO_Biological_Process_2023	Regulation Of Activated T Cell Proliferation (GO:0046006)	1/33	3.728903e-02	8.880535e-02	0	0	2.833097e+01	9.318213e+01	CRTAM
+GO_Biological_Process_2023	Regulation Of Cell Adhesion Mediated By Integrin (GO:0033628)	1/33	3.728903e-02	8.880535e-02	0	0	2.833097e+01	9.318213e+01	LIF
+GO_Biological_Process_2023	Positive Regulation Of Establishment Of Protein Localization To Mitochondrion (GO:1903749)	1/33	3.728903e-02	8.880535e-02	0	0	2.833097e+01	9.318213e+01	GZMB
+GO_Biological_Process_2023	Negative Regulation Of Ras Protein Signal Transduction (GO:0046580)	1/34	3.839798e-02	8.880535e-02	0	0	2.747107e+01	8.954885e+01	MYOC
+GO_Biological_Process_2023	Regulation Of calcineurin-NFAT Signaling Cascade (GO:0070884)	1/34	3.839798e-02	8.880535e-02	0	0	2.747107e+01	8.954885e+01	EFHB
+GO_Biological_Process_2023	One-Carbon Compound Transport (GO:0019755)	1/35	3.950570e-02	8.880535e-02	0	0	2.666176e+01	8.615244e+01	HBB
+GO_Biological_Process_2023	Platelet Aggregation (GO:0070527)	1/35	3.950570e-02	8.880535e-02	0	0	2.666176e+01	8.615244e+01	HBB
+GO_Biological_Process_2023	Positive Regulation Of Substrate Adhesion-Dependent Cell Spreading (GO:1900026)	1/35	3.950570e-02	8.880535e-02	0	0	2.666176e+01	8.615244e+01	MYOC
+GO_Biological_Process_2023	Negative Regulation Of Cell Cycle G1/S Phase Transition (GO:1902807)	1/35	3.950570e-02	8.880535e-02	0	0	2.666176e+01	8.615244e+01	INHBA
+GO_Biological_Process_2023	Endoderm Formation (GO:0001706)	1/35	3.950570e-02	8.880535e-02	0	0	2.666176e+01	8.615244e+01	INHBA
+GO_Biological_Process_2023	Liver Development (GO:0001889)	1/35	3.950570e-02	8.880535e-02	0	0	2.666176e+01	8.615244e+01	LSR
+GO_Biological_Process_2023	Regulation Of Receptor Internalization (GO:0002090)	1/36	4.061220e-02	8.880535e-02	0	0	2.589870e+01	8.297133e+01	SELE
+GO_Biological_Process_2023	Regulation Of Erythrocyte Differentiation (GO:0045646)	1/36	4.061220e-02	8.880535e-02	0	0	2.589870e+01	8.297133e+01	INHBA
+GO_Biological_Process_2023	Positive Regulation Of Myeloid Cell Differentiation (GO:0045639)	1/36	4.061220e-02	8.880535e-02	0	0	2.589870e+01	8.297133e+01	INHBA
+GO_Biological_Process_2023	Positive Regulation Of Phospholipase C Activity (GO:0010863)	1/36	4.061220e-02	8.880535e-02	0	0	2.589870e+01	8.297133e+01	SELE
+GO_Biological_Process_2023	Negative Regulation Of T Cell Proliferation (GO:0042130)	1/36	4.061220e-02	8.880535e-02	0	0	2.589870e+01	8.297133e+01	CRTAM
+GO_Biological_Process_2023	Negative Regulation Of Smooth Muscle Cell Proliferation (GO:0048662)	1/37	4.171748e-02	9.061811e-02	0	0	2.517803e+01	7.998645e+01	OGN
+GO_Biological_Process_2023	Odontogenesis (GO:0042476)	1/39	4.392440e-02	9.355326e-02	0	0	2.385048e+01	7.453955e+01	INHBA
+GO_Biological_Process_2023	Regulation Of Nitric Oxide Biosynthetic Process (GO:0045428)	1/39	4.392440e-02	9.355326e-02	0	0	2.385048e+01	7.453955e+01	HBB
+GO_Biological_Process_2023	Negative Regulation Of Cell-Substrate Adhesion (GO:0010812)	1/39	4.392440e-02	9.355326e-02	0	0	2.385048e+01	7.453955e+01	MYOC
+GO_Biological_Process_2023	Negative Regulation Of Mitotic Cell Cycle Phase Transition (GO:1901991)	1/40	4.502603e-02	9.406712e-02	0	0	2.323776e+01	7.204902e+01	INHBA
+GO_Biological_Process_2023	Positive Regulation Of Myeloid Leukocyte Differentiation (GO:0002763)	1/40	4.502603e-02	9.406712e-02	0	0	2.323776e+01	7.204902e+01	LIF
+GO_Biological_Process_2023	Negative Regulation Of Secretion By Cell (GO:1903531)	1/40	4.502603e-02	9.406712e-02	0	0	2.323776e+01	7.204902e+01	LIF
+GO_Biological_Process_2023	Lymphocyte Migration (GO:0072676)	1/41	4.612645e-02	9.455921e-02	0	0	2.265568e+01	6.969723e+01	CRTAM
+GO_Biological_Process_2023	Regulation Of Heart Rate By Cardiac Conduction (GO:0086091)	1/41	4.612645e-02	9.455921e-02	0	0	2.265568e+01	6.969723e+01	DSP
+GO_Biological_Process_2023	Negative Regulation Of Proteolysis (GO:0045861)	1/41	4.612645e-02	9.455921e-02	0	0	2.265568e+01	6.969723e+01	CSTA
+GO_Biological_Process_2023	Protein Modification Process (GO:0036211)	3/711	4.670429e-02	9.514911e-02	0	0	4.082415e+00	1.250819e+01	DSP;CSTA;TPTE
+GO_Biological_Process_2023	Positive Regulation Of Receptor-Mediated Endocytosis (GO:0048260)	1/43	4.832364e-02	9.664729e-02	0	0	2.157468e+01	6.536769e+01	SELE
+GO_Biological_Process_2023	Positive Regulation Of Stress Fiber Assembly (GO:0051496)	1/43	4.832364e-02	9.664729e-02	0	0	2.157468e+01	6.536769e+01	MYOC
+GO_Biological_Process_2023	Positive Regulation Of Cell-Matrix Adhesion (GO:0001954)	1/43	4.832364e-02	9.664729e-02	0	0	2.157468e+01	6.536769e+01	MYOC
+GO_Biological_Process_2023	Cardiac Conduction (GO:0061337)	1/46	5.161037e-02	9.957765e-02	0	0	2.013333e+01	5.967586e+01	DSP
+GO_Biological_Process_2023	Male Gonad Development (GO:0008584)	1/46	5.161037e-02	9.957765e-02	0	0	2.013333e+01	5.967586e+01	INHBA
+GO_Biological_Process_2023	Homotypic Cell-Cell Adhesion (GO:0034109)	1/46	5.161037e-02	9.957765e-02	0	0	2.013333e+01	5.967586e+01	HBB
+GO_Biological_Process_2023	Response To Hydrogen Peroxide (GO:0042542)	1/46	5.161037e-02	9.957765e-02	0	0	2.013333e+01	5.967586e+01	HBB
+GO_Biological_Process_2023	Development Of Primary Male Sexual Characteristics (GO:0046546)	1/46	5.161037e-02	9.957765e-02	0	0	2.013333e+01	5.967586e+01	INHBA
+GO_Biological_Process_2023	Negative Regulation Of Cold-Induced Thermogenesis (GO:0120163)	1/46	5.161037e-02	9.957765e-02	0	0	2.013333e+01	5.967586e+01	CIDEA
+GO_Biological_Process_2023	Negative Regulation Of Hydrolase Activity (GO:0051346)	1/47	5.270353e-02	9.992345e-02	0	0	1.969466e+01	5.796283e+01	CSTA
+GO_Biological_Process_2023	Regulation Of T Cell Differentiation (GO:0045580)	1/47	5.270353e-02	9.992345e-02	0	0	1.969466e+01	5.796283e+01	CRTAM
+GO_Biological_Process_2023	Negative Regulation Of Tumor Necrosis Factor Production (GO:0032720)	1/47	5.270353e-02	9.992345e-02	0	0	1.969466e+01	5.796283e+01	CIDEA
+GO_Biological_Process_2023	Myelination (GO:0042552)	1/48	5.379548e-02	1.011732e-01	0	0	1.927466e+01	5.633147e+01	MYOC
+GO_Biological_Process_2023	Erythrocyte Differentiation (GO:0030218)	1/49	5.488623e-02	1.011732e-01	0	0	1.887216e+01	5.477630e+01	INHBA
+GO_Biological_Process_2023	Positive Regulation Of Pathway-Restricted SMAD Protein Phosphorylation (GO:0010862)	1/49	5.488623e-02	1.011732e-01	0	0	1.887216e+01	5.477630e+01	INHBA
+GO_Biological_Process_2023	Negative Regulation Of Tumor Necrosis Factor Superfamily Cytokine Production (GO:1903556)	1/49	5.488623e-02	1.011732e-01	0	0	1.887216e+01	5.477630e+01	CIDEA
+GO_Biological_Process_2023	Positive Regulation Of Cell Death (GO:0010942)	1/50	5.597578e-02	1.011732e-01	0	0	1.848609e+01	5.329236e+01	HBB
+GO_Biological_Process_2023	Regulation Of Cell Population Proliferation (GO:0042127)	3/766	5.608576e-02	1.011732e-01	0	0	3.777326e+00	1.088200e+01	AMBN;LIF;INHBA
+GO_Biological_Process_2023	Negative Regulation Of Gene Expression (GO:0010629)	2/336	5.646439e-02	1.011732e-01	0	0	5.601084e+00	1.609833e+01	CIDEA;GZMB
+GO_Biological_Process_2023	Positive Regulation Of Leukocyte Mediated Cytotoxicity (GO:0001912)	1/51	5.706413e-02	1.011732e-01	0	0	1.811545e+01	5.187505e+01	CRTAM
+GO_Biological_Process_2023	Regulation Of Substrate Adhesion-Dependent Cell Spreading (GO:1900024)	1/51	5.706413e-02	1.011732e-01	0	0	1.811545e+01	5.187505e+01	MYOC
+GO_Biological_Process_2023	SMAD Protein Signal Transduction (GO:0060395)	1/51	5.706413e-02	1.011732e-01	0	0	1.811545e+01	5.187505e+01	INHBA
+GO_Biological_Process_2023	Positive Regulation Of Actin Filament Bundle Assembly (GO:0032233)	1/51	5.706413e-02	1.011732e-01	0	0	1.811545e+01	5.187505e+01	MYOC
+GO_Biological_Process_2023	Sensory Perception (GO:0007600)	1/51	5.706413e-02	1.011732e-01	0	0	1.811545e+01	5.187505e+01	PENK
+GO_Biological_Process_2023	Regulation Of Protein Localization To Nucleus (GO:1900180)	1/52	5.815127e-02	1.011969e-01	0	0	1.775936e+01	5.052018e+01	LIF
+GO_Biological_Process_2023	Cartilage Development (GO:0051216)	1/52	5.815127e-02	1.011969e-01	0	0	1.775936e+01	5.052018e+01	OGN
+GO_Biological_Process_2023	Regulation Of Proteolysis (GO:0030162)	1/52	5.815127e-02	1.011969e-01	0	0	1.775936e+01	5.052018e+01	CSTA
+GO_Biological_Process_2023	mRNA Stabilization (GO:0048255)	1/53	5.923722e-02	1.011969e-01	0	0	1.741696e+01	4.922390e+01	BOLL
+GO_Biological_Process_2023	Tight Junction Assembly (GO:0120192)	1/53	5.923722e-02	1.011969e-01	0	0	1.741696e+01	4.922390e+01	LSR
+GO_Biological_Process_2023	Negative Regulation Of Metabolic Process (GO:0009892)	1/53	5.923722e-02	1.011969e-01	0	0	1.741696e+01	4.922390e+01	CIDEA
+GO_Biological_Process_2023	Gonad Development (GO:0008406)	1/53	5.923722e-02	1.011969e-01	0	0	1.741696e+01	4.922390e+01	INHBA
+GO_Biological_Process_2023	Regulation Of Smooth Muscle Cell Proliferation (GO:0048660)	1/54	6.032197e-02	1.019877e-01	0	0	1.708748e+01	4.798265e+01	OGN
+GO_Biological_Process_2023	Regulation Of Focal Adhesion Assembly (GO:0051893)	1/54	6.032197e-02	1.019877e-01	0	0	1.708748e+01	4.798265e+01	MYOC
+GO_Biological_Process_2023	Positive Regulation Of Tyrosine Phosphorylation Of STAT Protein (GO:0042531)	1/55	6.140552e-02	1.032872e-01	0	0	1.677020e+01	4.679315e+01	LIF
+GO_Biological_Process_2023	Myeloid Cell Differentiation (GO:0030099)	1/57	6.356904e-02	1.058408e-01	0	0	1.616964e+01	4.455753e+01	INHBA
+GO_Biological_Process_2023	Regulation Of Calcium Ion Transport (GO:0051924)	1/57	6.356904e-02	1.058408e-01	0	0	1.616964e+01	4.455753e+01	EFHB
+GO_Biological_Process_2023	Positive Regulation Of Type II Interferon Production (GO:0032729)	1/58	6.464902e-02	1.070953e-01	0	0	1.588517e+01	4.350602e+01	CRTAM
+GO_Biological_Process_2023	Regulation Of Cell Death (GO:0010941)	1/59	6.572780e-02	1.083353e-01	0	0	1.561050e+01	4.249543e+01	HBB
+GO_Biological_Process_2023	Negative Regulation Of Peptidase Activity (GO:0010466)	1/60	6.680538e-02	1.095608e-01	0	0	1.534515e+01	4.152353e+01	CSTA
+GO_Biological_Process_2023	BMP Signaling Pathway (GO:0030509)	1/61	6.788179e-02	1.096809e-01	0	0	1.508864e+01	4.058824e+01	INHBA
+GO_Biological_Process_2023	Positive Regulation Of Cell Junction Assembly (GO:1901890)	1/61	6.788179e-02	1.096809e-01	0	0	1.508864e+01	4.058824e+01	MYOC
+GO_Biological_Process_2023	Regulation Of Pathway-Restricted SMAD Protein Phosphorylation (GO:0060393)	1/61	6.788179e-02	1.096809e-01	0	0	1.508864e+01	4.058824e+01	INHBA
+GO_Biological_Process_2023	Regulation Of T Cell Activation (GO:0050863)	1/62	6.895700e-02	1.106142e-01	0	0	1.484054e+01	3.968763e+01	CRTAM
+GO_Biological_Process_2023	Positive Regulation Of Protein Phosphorylation (GO:0001934)	2/377	6.913389e-02	1.106142e-01	0	0	4.978286e+00	1.330054e+01	LIF;INHBA
+GO_Biological_Process_2023	Negative Regulation Of Cell Population Proliferation (GO:0008285)	2/379	6.977455e-02	1.110973e-01	0	0	4.951370e+00	1.318295e+01	OGN;INHBA
+GO_Biological_Process_2023	Regulation Of Translational Initiation (GO:0006446)	1/65	7.217553e-02	1.132707e-01	0	0	1.414276e+01	3.717642e+01	BOLL
+GO_Biological_Process_2023	Regulation Of Tyrosine Phosphorylation Of STAT Protein (GO:0042509)	1/65	7.217553e-02	1.132707e-01	0	0	1.414276e+01	3.717642e+01	LIF
+GO_Biological_Process_2023	Regulation Of Cell-Matrix Adhesion (GO:0001952)	1/65	7.217553e-02	1.132707e-01	0	0	1.414276e+01	3.717642e+01	MYOC
+GO_Biological_Process_2023	Cellular Response To BMP Stimulus (GO:0071773)	1/66	7.324600e-02	1.138611e-01	0	0	1.392448e+01	3.639763e+01	INHBA
+GO_Biological_Process_2023	Response To Reactive Oxygen Species (GO:0000302)	1/66	7.324600e-02	1.138611e-01	0	0	1.392448e+01	3.639763e+01	HBB
+GO_Biological_Process_2023	Extrinsic Apoptotic Signaling Pathway (GO:0097191)	1/67	7.431529e-02	1.149784e-01	0	0	1.371281e+01	3.564561e+01	INHBA
+GO_Biological_Process_2023	Cell-Cell Junction Organization (GO:0045216)	1/68	7.538341e-02	1.150035e-01	0	0	1.350746e+01	3.491906e+01	DSP
+GO_Biological_Process_2023	Intermediate Filament Organization (GO:0045109)	1/68	7.538341e-02	1.150035e-01	0	0	1.350746e+01	3.491906e+01	DSP
+GO_Biological_Process_2023	Neuropeptide Signaling Pathway (GO:0007218)	1/68	7.538341e-02	1.150035e-01	0	0	1.350746e+01	3.491906e+01	PENK
+GO_Biological_Process_2023	Positive Regulation Of Phosphatidylinositol 3-Kinase Signaling (GO:0014068)	1/69	7.645034e-02	1.155563e-01	0	0	1.330816e+01	3.421678e+01	MYOC
+GO_Biological_Process_2023	Response To Molecule Of Bacterial Origin (GO:0002237)	1/69	7.645034e-02	1.155563e-01	0	0	1.330816e+01	3.421678e+01	SELE
+GO_Biological_Process_2023	Negative Regulation Of Protein Binding (GO:0032091)	1/71	7.858068e-02	1.171447e-01	0	0	1.292662e+01	3.288054e+01	EFHB
+GO_Biological_Process_2023	Myeloid Leukocyte Differentiation (GO:0002573)	1/71	7.858068e-02	1.171447e-01	0	0	1.292662e+01	3.288054e+01	LIF
+GO_Biological_Process_2023	Positive Regulation Of Cell-Substrate Adhesion (GO:0010811)	1/71	7.858068e-02	1.171447e-01	0	0	1.292662e+01	3.288054e+01	MYOC
+GO_Biological_Process_2023	Positive Regulation Of Protein Localization To Nucleus (GO:1900182)	1/72	7.964408e-02	1.171447e-01	0	0	1.274392e+01	3.224450e+01	LIF
+GO_Biological_Process_2023	Second-Messenger-Mediated Signaling (GO:0019932)	1/72	7.964408e-02	1.171447e-01	0	0	1.274392e+01	3.224450e+01	SELE
+GO_Biological_Process_2023	Negative Regulation Of Catabolic Process (GO:0009895)	1/72	7.964408e-02	1.171447e-01	0	0	1.274392e+01	3.224450e+01	CIDEA
+GO_Biological_Process_2023	Regulation Of Rho Protein Signal Transduction (GO:0035023)	1/73	8.070632e-02	1.181771e-01	0	0	1.256629e+01	3.162857e+01	MYOC
+GO_Biological_Process_2023	Gland Development (GO:0048732)	1/74	8.176737e-02	1.191987e-01	0	0	1.239352e+01	3.103186e+01	LSR
+GO_Biological_Process_2023	Regulation Of Stress Fiber Assembly (GO:0051492)	1/75	8.282726e-02	1.196799e-01	0	0	1.222543e+01	3.045352e+01	MYOC
+GO_Biological_Process_2023	Negative Regulation Of Phosphorylation (GO:0042326)	1/75	8.282726e-02	1.196799e-01	0	0	1.222543e+01	3.045352e+01	INHBA
+GO_Biological_Process_2023	Negative Regulation Of Transforming Growth Factor Beta Receptor Signaling Pathway (GO:0030512)	1/77	8.494353e-02	1.221995e-01	0	0	1.190251e+01	2.934884e+01	CIDEA
+GO_Biological_Process_2023	Proteolysis Involved In Protein Catabolic Process (GO:0051603)	1/78	8.599991e-02	1.231789e-01	0	0	1.174734e+01	2.882104e+01	GZMB
+GO_Biological_Process_2023	Positive Regulation Of Protein Localization To Membrane (GO:1905477)	1/79	8.705512e-02	1.241482e-01	0	0	1.159615e+01	2.830869e+01	GZMB
+GO_Biological_Process_2023	Wound Healing (GO:0042060)	1/80	8.810917e-02	1.251074e-01	0	0	1.144879e+01	2.781116e+01	DSP
+GO_Biological_Process_2023	Cellular Response To Organic Substance (GO:0071310)	1/82	9.021377e-02	1.269962e-01	0	0	1.116498e+01	2.685818e+01	OXTR
+GO_Biological_Process_2023	Regulation Of Phosphorylation (GO:0042325)	1/82	9.021377e-02	1.269962e-01	0	0	1.116498e+01	2.685818e+01	INHBA
+GO_Biological_Process_2023	Epidermis Development (GO:0008544)	1/85	9.336197e-02	1.292098e-01	0	0	1.076461e+01	2.552581e+01	DSP
+GO_Biological_Process_2023	Calcium-Mediated Signaling (GO:0019722)	1/85	9.336197e-02	1.292098e-01	0	0	1.076461e+01	2.552581e+01	SELE
+GO_Biological_Process_2023	Positive Regulation Of Protein Localization (GO:1903829)	1/85	9.336197e-02	1.292098e-01	0	0	1.076461e+01	2.552581e+01	LIF
+GO_Biological_Process_2023	Response To Interleukin-1 (GO:0070555)	1/85	9.336197e-02	1.292098e-01	0	0	1.076461e+01	2.552581e+01	SELE
+GO_Biological_Process_2023	Negative Regulation Of Binding (GO:0051100)	1/86	9.440906e-02	1.301100e-01	0	0	1.063743e+01	2.510560e+01	EFHB
+GO_Biological_Process_2023	Positive Regulation Of Cell Adhesion (GO:0045785)	1/88	9.649975e-02	1.324348e-01	0	0	1.039185e+01	2.429838e+01	LIF
+GO_Biological_Process_2023	Positive Regulation Of Peptidyl-Serine Phosphorylation (GO:0033138)	1/89	9.754337e-02	1.333093e-01	0	0	1.027324e+01	2.391055e+01	LIF
+GO_Biological_Process_2023	Regulation Of Peptidyl-Tyrosine Phosphorylation (GO:0050730)	1/90	9.858583e-02	1.336205e-01	0	0	1.015730e+01	2.353272e+01	LIF
+GO_Biological_Process_2023	Regulation Of Phosphatidylinositol 3-Kinase Signaling (GO:0014066)	1/90	9.858583e-02	1.336205e-01	0	0	1.015730e+01	2.353272e+01	MYOC
+GO_Biological_Process_2023	Positive Regulation Of Protein Kinase B Signaling (GO:0051897)	1/93	1.017063e-01	1.361619e-01	0	0	9.824605e+00	2.245576e+01	MYOC
+GO_Biological_Process_2023	Negative Regulation Of Amide Metabolic Process (GO:0034249)	1/93	1.017063e-01	1.361619e-01	0	0	9.824605e+00	2.245576e+01	GZMB
+GO_Biological_Process_2023	Regulation Of Peptidyl-Serine Phosphorylation (GO:0033135)	1/93	1.017063e-01	1.361619e-01	0	0	9.824605e+00	2.245576e+01	LIF
+GO_Biological_Process_2023	Cellular Response To Hormone Stimulus (GO:0032870)	1/94	1.027442e-01	1.364376e-01	0	0	9.718475e+00	2.211452e+01	OXTR
+GO_Biological_Process_2023	Muscle Contraction (GO:0006936)	1/94	1.027442e-01	1.364376e-01	0	0	9.718475e+00	2.211452e+01	OXTR
+GO_Biological_Process_2023	Positive Regulation Of Transmembrane Receptor Protein Serine/Threonine Kinase Signaling Pathway (GO:0090100)	1/95	1.037809e-01	1.372586e-01	0	0	9.614603e+00	2.178163e+01	INHBA
+GO_Biological_Process_2023	Positive Regulation Of Gene Expression (GO:0010628)	2/480	1.045088e-01	1.375192e-01	0	0	3.885037e+00	8.774295e+00	CRTAM;INHBA
+GO_Biological_Process_2023	Regulation Of Protein Metabolic Process (GO:0051246)	1/96	1.048165e-01	1.375192e-01	0	0	9.512919e+00	2.145681e+01	INHBA
+GO_Biological_Process_2023	Negative Regulation Of Apoptotic Process (GO:0043066)	2/482	1.052389e-01	1.375233e-01	0	0	3.868452e+00	8.709908e+00	COMP;CIDEA
+GO_Biological_Process_2023	Regulation Of Defense Response (GO:0031347)	1/97	1.058509e-01	1.377742e-01	0	0	9.413352e+00	2.113979e+01	SELE
+GO_Biological_Process_2023	Negative Regulation Of Macromolecule Biosynthetic Process (GO:0010558)	1/98	1.068842e-01	1.380236e-01	0	0	9.315839e+00	2.083031e+01	GZMB
+GO_Biological_Process_2023	Positive Regulation Of Cold-Induced Thermogenesis (GO:0120162)	1/98	1.068842e-01	1.380236e-01	0	0	9.315839e+00	2.083031e+01	OXTR
+GO_Biological_Process_2023	Protein Complex Oligomerization (GO:0051259)	1/100	1.089473e-01	1.401361e-01	0	0	9.126722e+00	2.023295e+01	COMP
+GO_Biological_Process_2023	Hemopoiesis (GO:0030097)	1/101	1.099772e-01	1.409082e-01	0	0	9.035000e+00	1.994461e+01	INHBA
+GO_Biological_Process_2023	Protein Catabolic Process (GO:0030163)	1/102	1.110059e-01	1.416729e-01	0	0	8.945095e+00	1.966286e+01	GZMB
+GO_Biological_Process_2023	Regulation Of G1/S Transition Of Mitotic Cell Cycle (GO:2000045)	1/106	1.151094e-01	1.463406e-01	0	0	8.602597e+00	1.859772e+01	INHBA
+GO_Biological_Process_2023	Negative Regulation Of Translation (GO:0017148)	1/107	1.161324e-01	1.466665e-01	0	0	8.521012e+00	1.834594e+01	GZMB
+GO_Biological_Process_2023	Positive Regulation Of Metabolic Process (GO:0009893)	1/108	1.171544e-01	1.466665e-01	0	0	8.440952e+00	1.809962e+01	OXTR
+GO_Biological_Process_2023	Response To Tumor Necrosis Factor (GO:0034612)	1/108	1.171544e-01	1.466665e-01	0	0	8.440952e+00	1.809962e+01	SELE
+GO_Biological_Process_2023	Positive Regulation Of Translation (GO:0045727)	1/108	1.171544e-01	1.466665e-01	0	0	8.440952e+00	1.809962e+01	BOLL
+GO_Biological_Process_2023	Response To Lipid (GO:0033993)	1/110	1.191948e-01	1.482330e-01	0	0	8.285238e+00	1.762267e+01	SELE
+GO_Biological_Process_2023	Regulation Of Transforming Growth Factor Beta Receptor Signaling Pathway (GO:0017015)	1/111	1.202133e-01	1.482330e-01	0	0	8.209504e+00	1.739173e+01	CIDEA
+GO_Biological_Process_2023	T Cell Activation (GO:0042110)	1/111	1.202133e-01	1.482330e-01	0	0	8.209504e+00	1.739173e+01	CRTAM
+GO_Biological_Process_2023	Negative Regulation Of Transmembrane Receptor Protein Serine/Threonine Kinase Signaling Pathway (GO:0090101)	1/111	1.202133e-01	1.482330e-01	0	0	8.209504e+00	1.739173e+01	CIDEA
+GO_Biological_Process_2023	Positive Regulation Of Intracellular Signal Transduction (GO:1902533)	2/525	1.212736e-01	1.489803e-01	0	0	3.542566e+00	7.473772e+00	MYOC;LIF
+GO_Biological_Process_2023	Protein Maturation (GO:0051604)	1/117	1.263009e-01	1.545772e-01	0	0	7.782524e+00	1.610273e+01	GZMB
+GO_Biological_Process_2023	Regulation Of Protein Binding (GO:0043393)	1/118	1.273115e-01	1.552349e-01	0	0	7.715618e+00	1.590280e+01	EFHB
+GO_Biological_Process_2023	Organonitrogen Compound Biosynthetic Process (GO:1901566)	1/123	1.323481e-01	1.602179e-01	0	0	7.397541e+00	1.496019e+01	INHBA
+GO_Biological_Process_2023	Protein Dephosphorylation (GO:0006470)	1/124	1.333521e-01	1.602179e-01	0	0	7.337029e+00	1.478237e+01	TPTE
+GO_Biological_Process_2023	Negative Regulation Of Growth (GO:0045926)	1/124	1.333521e-01	1.602179e-01	0	0	7.337029e+00	1.478237e+01	INHBA
+GO_Biological_Process_2023	Enzyme-Linked Receptor Protein Signaling Pathway (GO:0007167)	1/124	1.333521e-01	1.602179e-01	0	0	7.337029e+00	1.478237e+01	LIF
+GO_Biological_Process_2023	Response To Cytokine (GO:0034097)	1/125	1.343549e-01	1.602488e-01	0	0	7.277493e+00	1.460789e+01	SELE
+GO_Biological_Process_2023	Negative Regulation Of Cell Growth (GO:0030308)	1/125	1.343549e-01	1.602488e-01	0	0	7.277493e+00	1.460789e+01	INHBA
+GO_Biological_Process_2023	Positive Regulation Of Intracellular Protein Transport (GO:0090316)	1/126	1.353567e-01	1.608587e-01	0	0	7.218909e+00	1.443668e+01	GZMB
+GO_Biological_Process_2023	Regulation Of Response To External Stimulus (GO:0032101)	1/127	1.363573e-01	1.608820e-01	0	0	7.161255e+00	1.426863e+01	SELE
+GO_Biological_Process_2023	Regulation Of Tumor Necrosis Factor Production (GO:0032680)	1/127	1.363573e-01	1.608820e-01	0	0	7.161255e+00	1.426863e+01	CIDEA
+GO_Biological_Process_2023	Protein Homooligomerization (GO:0051260)	1/129	1.383553e-01	1.626542e-01	0	0	7.048651e+00	1.394174e+01	COMP
+GO_Biological_Process_2023	Transmembrane Receptor Protein Serine/Threonine Kinase Signaling Pathway (GO:0007178)	1/130	1.393526e-01	1.626607e-01	0	0	6.993658e+00	1.378274e+01	INHBA
+GO_Biological_Process_2023	Positive Regulation Of Peptidyl-Tyrosine Phosphorylation (GO:0050731)	1/130	1.393526e-01	1.626607e-01	0	0	6.993658e+00	1.378274e+01	LIF
+GO_Biological_Process_2023	Plasma Membrane Bounded Cell Projection Organization (GO:0120036)	1/132	1.413439e-01	1.644000e-01	0	0	6.886190e+00	1.347324e+01	MYOC
+GO_Biological_Process_2023	Regulation Of Protein Kinase B Signaling (GO:0051896)	1/136	1.453134e-01	1.684198e-01	0	0	6.680808e+00	1.288636e+01	MYOC
+GO_Biological_Process_2023	Negative Regulation Of Cellular Biosynthetic Process (GO:0031327)	1/137	1.463030e-01	1.689697e-01	0	0	6.631350e+00	1.274596e+01	GZMB
+GO_Biological_Process_2023	Positive Regulation Of Cellular Process (GO:0048522)	2/594	1.481832e-01	1.705407e-01	0	0	3.118565e+00	5.954294e+00	LIF;HBB
+GO_Biological_Process_2023	Dephosphorylation (GO:0016311)	1/147	1.561391e-01	1.790686e-01	0	0	6.174035e+00	1.146523e+01	TPTE
+GO_Biological_Process_2023	Negative Regulation Of DNA-binding Transcription Factor Activity (GO:0043433)	1/149	1.580933e-01	1.806780e-01	0	0	6.089988e+00	1.123341e+01	NFKBIE
+GO_Biological_Process_2023	Neuron Development (GO:0048666)	1/150	1.590687e-01	1.811616e-01	0	0	6.048810e+00	1.112025e+01	MYOC
+GO_Biological_Process_2023	Response To Lipopolysaccharide (GO:0032496)	1/159	1.677993e-01	1.904435e-01	0	0	5.701669e+00	1.017740e+01	SELE
+GO_Biological_Process_2023	Nitrogen Compound Transport (GO:0071705)	1/163	1.716517e-01	1.941440e-01	0	0	5.559764e+00	9.797905e+00	HBB
+GO_Biological_Process_2023	Neuron Differentiation (GO:0030182)	1/173	1.812082e-01	2.042484e-01	0	0	5.233879e+00	8.940035e+00	INHBA
+GO_Biological_Process_2023	Positive Regulation Of Cellular Biosynthetic Process (GO:0031328)	1/174	1.821580e-01	2.046158e-01	0	0	5.203363e+00	8.860707e+00	HBB
+GO_Biological_Process_2023	Macromolecule Biosynthetic Process (GO:0009059)	1/183	1.906591e-01	2.134341e-01	0	0	4.943806e+00	8.193212e+00	INHBA
+GO_Biological_Process_2023	Phosphate-Containing Compound Metabolic Process (GO:0006796)	1/184	1.915985e-01	2.137561e-01	0	0	4.916542e+00	8.123866e+00	TPTE
+GO_Biological_Process_2023	Regulation Of Apoptotic Process (GO:0042981)	2/705	1.937463e-01	2.154196e-01	0	0	2.611122e+00	4.285389e+00	COMP;CIDEA
+GO_Biological_Process_2023	Neuron Projection Development (GO:0031175)	1/192	1.990757e-01	2.205974e-01	0	0	4.708710e+00	7.600188e+00	MYOC
+GO_Biological_Process_2023	Regulation Of Cell Differentiation (GO:0045595)	1/193	2.000057e-01	2.208817e-01	0	0	4.683949e+00	7.538391e+00	LIF
+GO_Biological_Process_2023	Regulation Of Programmed Cell Death (GO:0043067)	1/195	2.018626e-01	2.221843e-01	0	0	4.635192e+00	7.417087e+00	CIDEA
+GO_Biological_Process_2023	Positive Regulation Of Protein Metabolic Process (GO:0051247)	1/196	2.027895e-01	2.224580e-01	0	0	4.611189e+00	7.357553e+00	INHBA
+GO_Biological_Process_2023	Anterograde Trans-Synaptic Signaling (GO:0098916)	1/199	2.055640e-01	2.247500e-01	0	0	4.540634e+00	7.183273e+00	PENK
+GO_Biological_Process_2023	Regulation Of Translation (GO:0006417)	1/202	2.083293e-01	2.270166e-01	0	0	4.472185e+00	7.015227e+00	GZMB
+GO_Biological_Process_2023	Positive Regulation Of Cell Motility (GO:2000147)	1/221	2.256300e-01	2.450551e-01	0	0	4.082025e+00	6.077559e+00	MYOC
+GO_Biological_Process_2023	Regulation Of Cell Growth (GO:0001558)	1/227	2.310178e-01	2.500787e-01	0	0	3.972446e+00	5.820667e+00	INHBA
+GO_Biological_Process_2023	Apoptotic Process (GO:0006915)	1/228	2.319123e-01	2.502212e-01	0	0	3.954746e+00	5.779449e+00	GZMB
+GO_Biological_Process_2023	Negative Regulation Of Multicellular Organismal Process (GO:0051241)	1/231	2.345898e-01	2.522802e-01	0	0	3.902569e+00	5.658401e+00	CIDEA
+GO_Biological_Process_2023	Inflammatory Response (GO:0006954)	1/236	2.390324e-01	2.562178e-01	0	0	3.818569e+00	5.464968e+00	SELE
+GO_Biological_Process_2023	Regulation Of Inflammatory Response (GO:0050727)	1/240	2.425688e-01	2.591614e-01	0	0	3.753899e+00	5.317285e+00	SELE
+GO_Biological_Process_2023	Positive Regulation Of Cell Migration (GO:0030335)	1/272	2.702990e-01	2.878224e-01	0	0	3.305267e+00	4.324038e+00	MYOC
+GO_Biological_Process_2023	Chemical Synaptic Transmission (GO:0007268)	1/273	2.711497e-01	2.878224e-01	0	0	3.292948e+00	4.297574e+00	PENK
+GO_Biological_Process_2023	Central Nervous System Development (GO:0007417)	1/283	2.796049e-01	2.958401e-01	0	0	3.174565e+00	4.045594e+00	LSR
+GO_Biological_Process_2023	Gene Expression (GO:0010467)	1/296	2.904566e-01	3.062225e-01	0	0	3.032666e+00	3.749288e+00	GZMB
+GO_Biological_Process_2023	Regulation Of Intracellular Signal Transduction (GO:1902531)	1/297	2.912848e-01	3.062225e-01	0	0	3.022267e+00	3.727826e+00	MYOC
+GO_Biological_Process_2023	Positive Regulation Of Transcription By RNA Polymerase II (GO:0045944)	2/938	2.938069e-01	3.078871e-01	0	0	1.937424e+00	2.373020e+00	LIF;INHBA
+GO_Biological_Process_2023	Positive Regulation Of MAPK Cascade (GO:0043410)	1/310	3.019680e-01	3.154315e-01	0	0	2.893204e+00	3.464421e+00	LIF
+GO_Biological_Process_2023	Supramolecular Fiber Organization (GO:0097435)	1/316	3.068466e-01	3.195101e-01	0	0	2.837229e+00	3.351924e+00	DSP
+GO_Biological_Process_2023	Positive Regulation Of Cytokine Production (GO:0001819)	1/320	3.100809e-01	3.218561e-01	0	0	2.801083e+00	3.279850e+00	CRTAM
+GO_Biological_Process_2023	Proteolysis (GO:0006508)	1/330	3.181035e-01	3.291418e-01	0	0	2.714562e+00	3.109201e+00	GZMB
+GO_Biological_Process_2023	Positive Regulation Of Macromolecule Metabolic Process (GO:0010604)	1/364	3.447182e-01	3.555584e-01	0	0	2.456048e+00	2.615760e+00	INHBA
+GO_Biological_Process_2023	Negative Regulation Of Programmed Cell Death (GO:0043069)	1/381	3.576501e-01	3.677406e-01	0	0	2.344139e+00	2.410244e+00	COMP
+GO_Biological_Process_2023	Nervous System Development (GO:0007399)	1/433	3.957085e-01	4.050635e-01	0	0	2.056503e+00	1.906537e+00	INHBA
+GO_Biological_Process_2023	Regulation Of Cell Migration (GO:0030334)	1/434	3.964188e-01	4.050635e-01	0	0	2.051648e+00	1.898357e+00	MYOC
+GO_Biological_Process_2023	Positive Regulation Of DNA-templated Transcription (GO:0045893)	2/1243	4.230584e-01	4.309415e-01	0	0	1.437857e+00	1.236910e+00	LIF;INHBA
+GO_Biological_Process_2023	Positive Regulation Of Cell Population Proliferation (GO:0008284)	1/483	4.302623e-01	4.369227e-01	0	0	1.838457e+00	1.550482e+00	LIF
+GO_Biological_Process_2023	Negative Regulation Of Cellular Process (GO:0048523)	1/537	4.654554e-01	4.712018e-01	0	0	1.648660e+00	1.260795e+00	INHBA
+GO_Biological_Process_2023	Positive Regulation Of Nucleic Acid-Templated Transcription (GO:1903508)	1/557	4.779543e-01	4.823662e-01	0	0	1.587721e+00	1.172119e+00	INHBA
+GO_Biological_Process_2023	Regulation Of Transcription By RNA Polymerase II (GO:0006357)	2/2028	6.927185e-01	6.969683e-01	0	0	8.438396e-01	3.098002e-01	LIF;INHBA
+GO_Biological_Process_2023	Regulation Of Gene Expression (GO:0010468)	1/1127	7.367763e-01	7.390294e-01	0	0	7.609801e-01	2.324573e-01	INHBA
+GO_Biological_Process_2023	Regulation Of DNA-templated Transcription (GO:0006355)	1/1922	9.022334e-01	9.022334e-01	0	0	4.272396e-01	4.395526e-02	INHBA
