@@ -520,7 +520,7 @@ This is why my final recommendation is not automatically the model with highest 
 
 ---
 
-## 29. Results Interpretation
+## 29. Final Overall Result Interpretation
 
 **Dataset summary**
 - Training matrix (model-ready): 468 samples (394 tumor, 74 normal), 1,854 gene features + label.
