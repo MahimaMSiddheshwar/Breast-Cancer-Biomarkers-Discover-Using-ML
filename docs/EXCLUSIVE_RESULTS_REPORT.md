@@ -520,15 +520,80 @@ This is why my final recommendation is not automatically the model with highest 
 
 ---
 
-## 29. Theory-to-Practice Summary Table (Narrative)
+## 29. Results Interpretation
 
-If I summarize my interpretation in one practical framework:
-- **Need ranking quality?** Check AUROC.
-- **Need positive detection quality?** Check AUPRC + sensitivity.
-- **Need low false alarms?** Check specificity.
-- **Need balanced threshold behavior?** Check F1 + confusion matrix.
-- **Need deployable panel?** Compare top-5/top-10/full externally.
-- **Need biological plausibility?** Check enrichment terms and gene context.
+**Dataset summary**
+- Training matrix (model-ready): 468 samples (394 tumor, 74 normal), 1,854 gene features + label.
+- External test matrix: 346 samples (173 tumor, 173 normal), harmonized to training features.
+- Candidate biomarker stability was derived from fold-wise L1-based feature selection.
 
-This combined reading is what turns model scores into a scientifically defendable biomarker story.
+**Internal model performance (5-model comparison)**
+From `model_results_ML_Analysis.csv`, all models performed strongly in internal evaluation:
+
+- Logistic Regression: Accuracy `0.987 ± 0.011`, AUROC `0.994 ± 0.011`, F1 `0.992 ± 0.006`, Sensitivity `0.995 ± 0.006`, Specificity `0.945 ± 0.053`
+- SVM: Accuracy `0.991 ± 0.013`, AUROC `0.993 ± 0.013`, F1 `0.995 ± 0.007`, Sensitivity `0.997 ± 0.005`, Specificity `0.958 ± 0.057`
+- Random Forest: Accuracy `0.991 ± 0.008`, AUROC `0.995 ± 0.009`, F1 `0.995 ± 0.005`, Sensitivity `1.000 ± 0.000`, Specificity `0.945 ± 0.053`
+- Gradient Boosting: Accuracy `0.985 ± 0.009`, AUROC `0.992 ± 0.012`, F1 `0.991 ± 0.005`, Sensitivity `0.997 ± 0.005`, Specificity `0.918 ± 0.052`
+- ANN: Accuracy `0.961 ± 0.023`, AUROC `0.979 ± 0.034`, F1 `0.977 ± 0.014`, Sensitivity `0.964 ± 0.026`, Specificity `0.945 ± 0.053`
+
+**Best internal model**
+- By AUROC: **Random Forest** (`0.995 ± 0.009`)
+- By balanced strong performance and interpretability: Logistic/SVM also highly competitive.
+
+**External validation performance**
+From `external_validation_results.csv`:
+- AUROC: `0.889`
+- Accuracy: `0.743`
+- Sensitivity: `0.486`
+- Specificity: `1.000`
+
+This indicates strong discrimination on unseen cohorts, with very high specificity but moderate sensitivity at default operating behavior.
+
+**Confusion matrix results (external)**
+At threshold `0.5` (`external_full_threshold_0_5_confusion_matrix.csv`):
+- TN = 173, FP = 0, FN = 88, TP = 85
+
+At tuned threshold `0.475` (`external_full_threshold_tuned_confusion_matrix.csv`):
+- TN = 173, FP = 0, FN = 87, TP = 86
+
+This threshold adjustment produced a small sensitivity gain while preserving zero false positives in this run.
+
+**Classification report (external)**
+At threshold `0.5`:
+- Normal: precision `0.663`, recall `1.000`, F1 `0.797`
+- Tumor: precision `1.000`, recall `0.491`, F1 `0.659`
+- Accuracy `0.746`
+
+At tuned threshold `0.475`:
+- Normal: precision `0.665`, recall `1.000`, F1 `0.799`
+- Tumor: precision `1.000`, recall `0.497`, F1 `0.664`
+- Accuracy `0.749`
+
+**Panel-size comparison (external)**
+From `panel_comparison_external.csv`:
+
+- Full panel (23 genes): AUROC `0.894`, AUPRC `0.917`, Accuracy `0.749`, Sensitivity `0.497`, Specificity `1.000`
+- Top-10 panel: AUROC `0.908`, AUPRC `0.931`, Accuracy `0.829`, Sensitivity `0.665`, Specificity `0.994`
+- Top-5 panel: AUROC `0.841`, AUPRC `0.882`, Accuracy `0.743`, Sensitivity `0.486`, Specificity `1.000`
+
+**Best external panel**
+- **Top-10 gene panel** showed the best overall external tradeoff (highest AUROC/AUPRC and substantially improved sensitivity with minimal specificity loss).
+
+**Top biomarker candidates**
+From `biomarkers_ML_Analysis.csv`, high-stability genes (selected in most folds) included:
+- `GZMK`, `SELE`, `OXTR`, `HBB`, `EFHB`, `GZMB`, `MYOC`, `OGN`, `INHBA`, `PENK`, `COMP`  
+Additional recurrent genes included: `CIDEA`, `NFKBIE`, `DSP`, `LIF`, `CSTA`, `LSR`, `CRTAM`, `CPO`.
+
+**Biological interpretation**
+Pathway enrichment (`pathway_enrichment/enrichment_top25.csv`) showed significant terms in:
+- macrophage differentiation regulation,
+- cell-cell junction localization,
+- epithelial/keratinocyte differentiation,
+- ECM/development-related signaling,
+- immune-regulatory processes.
+
+These enriched themes support biological plausibility of the selected biomarker signature beyond purely statistical prediction.
+
+**Overall conclusion**
+The pipeline identified a biologically coherent and externally validated candidate biomarker signature for breast cancer classification. Internal performance was excellent across five model families, and external discrimination remained strong. Among panel configurations, a compact top-10 gene panel provided the strongest practical external performance, making it the most promising candidate for next-stage independent validation and wet-lab confirmation.
 
