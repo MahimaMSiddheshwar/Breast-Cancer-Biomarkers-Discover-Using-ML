@@ -1,5 +1,5 @@
 # Breast Cancer Biomarker Discovery Report
-## End-to-End Technical and Biological Analysis (Author Narrative)
+## End-to-End Technical and Biological Analysis
 
 I wrote this report to document my project exactly the way I would explain it to a reviewer, supervisor, collaborator, or future version of myself. My objective is to provide a complete account of what I did, why each step was necessary, what I observed in the outputs, how I interpret the findings, and what still needs to be done before clinical-level claims can be made.
 
