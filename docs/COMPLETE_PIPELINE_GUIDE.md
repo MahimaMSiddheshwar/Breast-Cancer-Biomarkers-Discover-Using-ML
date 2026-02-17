@@ -229,7 +229,7 @@ Why this is important:
 - `data/processed/Test_Dataset_Preprocessed.csv`: merged external test matrix
 - `data/processed/common_genes.txt`: feature-space intersecti
 
-## 11) New Step: External Head-to-Head Across 5 Models
+## 11) External Head-to-Head Across 5 Models
 
 I added an explicit external comparison step in `notebooks/ML_Analysis.ipynb` where all five models are tested head-to-head using the same external cohorts and same stable biomarker feature set.
 
