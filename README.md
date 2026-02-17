@@ -119,3 +119,12 @@ Interpretation:
 - In this strict head-to-head external setup, **ANN was the best model**.
 - Logistic Regression remained strong and interpretable.
 - This confirms why external head-to-head comparison is important: internal best model may differ from external best model.
+
+## Discovered Biomarkers
+
+Candidate biomarkers identified in this project:
+- CIDEA, GZMK, NFKBIE, CPO, SELE, DSP, LIF, CSTA, AMBN, BOLL, OXTR, HBB, EFHB, ASPA, GZMB, MYOC, LSR, OGN, INHBA, PENK, COMP, TPTE, CRTAM
+
+Most stable biomarkers (selected in all 5 folds):
+- GZMK, SELE, OXTR, HBB, EFHB, GZMB, MYOC, OGN, INHBA, PENK, COMP
+
