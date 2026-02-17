@@ -228,3 +228,51 @@ Why this is important:
 - `data/processed/Training_Dataset_Preprocessed.csv`: merged training matrix with metadata and genes
 - `data/processed/Test_Dataset_Preprocessed.csv`: merged external test matrix
 - `data/processed/common_genes.txt`: feature-space intersecti
+
+## 11) New Step: External Head-to-Head Across 5 Models
+
+I added an explicit external comparison step in `notebooks/ML_Analysis.ipynb` where all five models are tested head-to-head using the same external cohorts and same stable biomarker feature set.
+
+### Why this step is important
+A model that is best internally is not always best externally. This step removes ambiguity by testing each model under identical external conditions.
+
+### Models compared
+- Logistic Regression
+- SVM
+- Random Forest
+- Gradient Boosting
+- ANN
+
+### Output file
+- `results/external_head_to_head_models.csv`
+
+### Current observed results (external)
+- ANN: AUROC `0.911`, Accuracy `0.835`, Sensitivity `0.682`, Specificity `0.988`
+- Logistic Regression: AUROC `0.906`, Accuracy `0.754`, Sensitivity `0.514`, Specificity `0.994`
+- Gradient Boosting: AUROC `0.812`, Accuracy `0.561`
+- Random Forest: AUROC `0.811`, Accuracy `0.500`
+- SVM: AUROC `0.431`, Accuracy `0.569`
+
+### Practical conclusion
+In this external head-to-head run, ANN is the strongest model by AUROC and overall balance, while Logistic Regression remains a strong interpretable alternative.
+
+## 12) Final Results Summary and Future Direction
+
+### Final result summary
+Across preprocessing, model training, external testing, panel comparison, and enrichment interpretation, the project delivers a complete candidate biomarker discovery workflow.
+
+Key takeaways:
+- Internal model performance is high across five model families.
+- External validation confirms strong discrimination while highlighting a sensitivity-specificity operating tradeoff.
+- Top-10 panel performs best externally among tested panel sizes.
+- External head-to-head comparison across all five models shows ANN as strongest in current external setup.
+- Biomarker list and pathway enrichment indicate coherent biological signal (immune, adhesion/junction, and ECM/differentiation themes).
+
+### Practical conclusion
+This project is strong discovery-stage evidence with external support, suitable for thesis/report/publication discussion as a candidate biomarker study.
+
+### Future direction
+1. Independent additional external cohort validation.
+2. Threshold locking for intended use-case (screening vs confirmatory).
+3. Wet-lab validation (qPCR/IHC) for top candidates.
+4. Calibration and decision-analysis additions for translational readiness.

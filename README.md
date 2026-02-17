@@ -2,6 +2,8 @@
 
 This repository contains an end-to-end bioinformatics and machine learning workflow for discovering breast cancer biomarker candidates from GEO microarray datasets and testing their predictive performance on external cohorts.
 
+In this project, I built an end-to-end breast cancer biomarker discovery pipeline starting from raw GEO microarray data. I performed GPL-based preprocessing to convert probe-level data into harmonized gene-level train and external test matrices, then compared five ML models and selected stable biomarkers using L1-based feature selection. Internal model performance was high across all models, confirming strong predictive signal in the training domain. On external validation, the model retained strong discrimination (AUROC around 0.89), with very high specificity but moderate sensitivity, showing a conservative operating behavior. I further added confusion-matrix analysis, threshold tuning, precision-recall evaluation, and panel-size comparison, where the top-10 gene panel showed the best practical external tradeoff. In a strict external head-to-head, ANN achieved the best overall performance. Finally, pathway enrichment showed that selected biomarkers map to coherent immune, adhesion/junction, and ECM-related biological processes. Overall, this is a strong candidate biomarker discovery result with external support, and the next step is independent cohort expansion and wet-lab validation for clinical translation.
+
 ## What This Project Does
 
 This project starts from raw GEO series matrix files, converts probe-level microarray data into gene-level expression using GPL annotation files, harmonizes multiple studies, builds training and external test matrices, and then applies feature selection plus model evaluation. The goal is to identify robust gene signatures that separate tumor and normal samples, then explain those signatures biologically with pathway enrichment analysis.
@@ -98,3 +100,22 @@ Without these steps, model features become inconsistent, performance estimates b
 - Detailed pipeline guide: `docs/COMPLETE_PIPELINE_GUIDE.md`
 - Full results interpretation report: `docs/EXCLUSIVE_RESULTS_REPORT.md`
 
+
+## External Head-to-Head (5 Models on Same External Test)
+
+I added a direct external comparison where all five models use the same stable biomarker feature set and the same external test cohorts.
+
+Result file:
+- `results/external_head_to_head_models.csv`
+
+Observed external ranking by AUROC:
+- ANN: AUROC `0.911`, Accuracy `0.835`, Sensitivity `0.682`, Specificity `0.988`
+- Logistic Regression: AUROC `0.906`, Accuracy `0.754`, Sensitivity `0.514`, Specificity `0.994`
+- Gradient Boosting: AUROC `0.812`, Accuracy `0.561`
+- Random Forest: AUROC `0.811`, Accuracy `0.500`
+- SVM: AUROC `0.431`, Accuracy `0.569`
+
+Interpretation:
+- In this strict head-to-head external setup, **ANN was the best model**.
+- Logistic Regression remained strong and interpretable.
+- This confirms why external head-to-head comparison is important: internal best model may differ from external best model.
